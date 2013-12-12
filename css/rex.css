@@ -1,0 +1,157 @@
+   #cartodb-map { 
+    left: 0px;
+    right:0%;
+    width: auto;
+    /*height:850px;*/
+    position: absolute;
+    top: 0px;
+    background: #fff;
+    /*background-image: linear-gradient(0deg, transparent 24%, rgba(0, 0, 0, .05) 25%, rgba(0, 0, 0, .05) 26%, transparent 27%, transparent 74%, rgba(0, 0, 0, .05) 75%, rgba(0, 0, 0, .05) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(0, 0, 0, .05) 25%, rgba(0, 0, 0, .05) 26%, transparent 27%, transparent 74%, rgba(0, 0, 0, .05) 75%, rgba(0, 0, 0, .05) 76%, transparent 77%, transparent);*/
+    background-size:10px 10px;}
+
+.Annual {
+	padding-left: 12px;
+	color: #EEECEC;
+	font-size: 23px;
+	position: absolute;
+	top: -17px;
+	letter-spacing: 1px;
+}
+.annee12 {
+	display: inline;
+	padding-left: 220px;
+	color: #EEECEC;
+	position: absolute;
+	font-size: 25px;
+	top: -18px;
+	letter-spacing: 2px;
+}
+.Mainop{
+	display: inline;
+	line-height: 15px;
+	padding-bottom: 0;
+	color: #EEECEC;
+	top: -22.5px;
+	height: 30px;
+	width: 160px;
+	left: 290px;
+	position: absolute;
+	font-size: 10.7px;
+	text-transform: uppercase;
+	}
+.maintitre{
+   	position: absolute;
+    top: 35px;
+    height: 100px;
+    width: 1300px;
+    }
+
+.span12spe {
+
+  position :absolute;
+  z-index:10000;
+  left:0px;
+  right:0%;
+  width:auto;
+  background: rgb(105,98,151);
+  margin-left: 0px;
+  padding-left: 7px;
+  height: 50px;
+}
+
+.headercolored {
+  position :absolute;
+  border-bottom: 1px solid #fff;
+  z-index:10001;
+  color: #AEACB9;
+  right:0%;
+  left:0px;
+  width:auto;
+  height: 40px;
+  background:#AEACB9 ;
+  margin-left: 0px;
+  padding-left: 15px;
+  top: 50px;
+}
+
+p.titre{
+  display:inline;padding-left:27%;font-size:20px;font-weight: 100;/*text-transform: uppercase;*/
+}
+.tabbable{
+  z-index:99999;position: absolute;top: 148px;height: 42px;right: 0%;width: auto;background:#AEACB9;
+}
+.dropdown0{
+  position:absolute;left:-10px;top:-103px;width:170px;z-index:10;z-index: 9999999999999;text-transform: uppercase;
+}
+.dropdown3{
+  position:absolute;left:100px;top:-103px;width:130px;z-index:10;z-index: 9999999999999;text-transform: uppercase;
+}
+.dropdown{
+  position:absolute;left:175px;top:-103px;width:292px;z-index:10;z-index: 9999999999999;text-transform: uppercase;
+}
+.dropdown2{
+  position:absolute;left:412px;top:-103px;width:200px;z-index:10;z-index: 9999999999999;text-transform: uppercase;
+}
+.dropdown5{
+  position:absolute;left:605px;top:-103px;width:120px;z-index:10;z-index: 9999999999999;text-transform: uppercase;
+}
+.dropdown4{
+  position:absolute;left:553px;top:-103px;width:200px;z-index:10;z-index: 9999999999999;text-transform: uppercase;
+}
+
+.span4spe2 {
+  /*position: absolute;*/
+  width: 100%;
+  top: 91px;
+  left: -20px;
+  height: 40px;
+  /*position: absolute;*/
+  color: #686868;
+  background: #fff;
+  position: absolute;
+  border-top: 5px solid #FFF;
+  border-bottom: 1px solid #FFF;
+  z-index:99;
+  /*box-shadow: 5px 5px 5px #888;*/
+}
+
+#draggable {
+	position: absolute;
+	top:-60px;
+	left:-5px;
+}
+
+.footmenu{
+z-index: 2;
+position: absolute;
+bottom:0px;
+right:0%;
+left:0px;
+width:auto;
+background: #A6A6A6;
+height: 17px;
+border-bottom: 1px solid #fff;
+}
+
+.disclaimer {
+color: #000;
+z-index: 2;
+font-size: 10px;
+position: absolute;
+bottom:10px;
+right: 0%;
+height: 10px;
+left: 0px;
+width: auto;
+padding-left: 10px;
+}
+
+.logo {
+  position :absolute;
+  margin-top: 12.5px;
+  z-index:100000000002;
+  width: 50px;
+  margin-left: 0px;
+  padding-left: 0px;
+  right:19px;
+}
