@@ -2,7 +2,7 @@
 Suppr the merged columns<br>
 Replace  0 by - <br>
 Relace N/A by 0 <br>
-Save as REX2013.csv <br>
+Save as rex2013.csv <br>
 
 <h3>2_CartoDB:</h3>
 Connect to Cartodb <br>
