@@ -1,7 +1,7 @@
 <h3>1_Data Cleaning :</h3>
 Suppr the merged columns<br>
 Replace  0 by - <br>
-Relace N/A by 0 par - <br>
+Relace N/A by 0 <br>
 Save as REX2013.csv <br>
 
 <h3>2_CartoDB:</h3>
